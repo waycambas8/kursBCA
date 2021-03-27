@@ -82,7 +82,7 @@ YOUR_VARIABLE = array('kode' => 'usd')
 the datas automatically updated when the kurs BCA has been changed
 
 
-update 0.0.2 will be done soon :)
+<b>update 0.0.2 will be done soon :)</b>
 
-regards,
-way
+<b>regards,<br>
+way</b>
