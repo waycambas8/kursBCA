@@ -59,7 +59,7 @@ public function
 kurs_bca(YOUR_PARAMETER)
 ```
 
-# How to Intergrate with your Controller
+# How to Integrate with your Controller
 
 open your controller, and put this code on your variable or using <b>use</b>
 
