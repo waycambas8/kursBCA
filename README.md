@@ -1,4 +1,7 @@
 # KURS BANK BCA
+
+![GitHub Logo](https://www.bca.co.id/assets/images/logo-bca.gif;bcad93b5a3b4897622d)
+
 This package retrieves the kurs data from BCA Bank
 
 Include 13 currency around the world to IDR Indonesia Rupiah
@@ -83,8 +86,3 @@ the datas automatically updated when the kurs BCA has been changed
 
 
 <b>update 0.0.2 will be done soon :)</b>
-
-![GitHub Logo](https://www.bca.co.id/assets/images/logo-bca.gif;bcad93b5a3b4897622d)
-
-
-
