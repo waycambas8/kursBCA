@@ -1,4 +1,4 @@
-# KURS BANK BCA &nbsp; ![GitHub Logo_laravel](https://laravel.com/img/logotype.min.svg)
+# KURS BANK BCA
 
 ![GitHub Logo](https://www.bca.co.id/assets/images/logo-bca.gif;bcad93b5a3b4897622d)
 
@@ -20,7 +20,10 @@ Include 13 currency around the world to IDR Indonesia Rupiah
 - Yuan China / Tiongkok
 
 # How To install
+
 To run this project, install it locally using composer:
+
+![GitHub Logo_laravel](https://laravel.com/img/logotype.min.svg)
 
 ```
 $ composer require waycambas8/kursbca
