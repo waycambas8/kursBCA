@@ -73,6 +73,16 @@ take the exchange rate data from the American dollar (usd) to the Indonesian rup
 
 ```
 YOUR_VARIABLE = array('kode' => 'usd')
+
 \KursBca\ScrappyData::kurs_bca(YOUR_VARIABLE)
 ```
 
+# Final 
+
+the datas automatically updated when the kurs BCA has been changed
+
+
+update 0.0.2 will be done soon :)
+
+regards,
+way
