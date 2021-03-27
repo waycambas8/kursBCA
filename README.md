@@ -84,5 +84,7 @@ the datas automatically updated when the kurs BCA has been changed
 
 <b>update 0.0.2 will be done soon :)</b>
 
-<b>regards,<br>
-way</b>
+![GitHub Logo](https://www.bca.co.id/assets/images/logo-bca.gif;bcad93b5a3b4897622d)
+
+
+
