@@ -1,7 +1,6 @@
-# KURS BANK BCA
+# KURS BANK BCA &nbsp; ![GitHub Logo_laravel](https://laravel.com/img/logotype.min.svg)
 
 ![GitHub Logo](https://www.bca.co.id/assets/images/logo-bca.gif;bcad93b5a3b4897622d)
-![GitHub Logo_laravel](https://laravel.com/img/logotype.min.svg)
 
 This package retrieves the kurs data from BCA Bank
 
