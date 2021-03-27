@@ -1,0 +1,18 @@
+{
+    "name": "waycambas8/kursbca",
+    "description": "Pencaharian data kurs Bank BCA seluruh dunia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "waycambas8",
+            "email": "wahyubarat8@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KursBca\\": "src/"
+        }
+    },
+    "require": {}
+}
