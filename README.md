@@ -53,8 +53,26 @@ public function
 kurs_bca(YOUR_PARAMETER)
 ```
 
-#How to Integration with your Controller
+# How to Intergrate with your Controller
+
+open your controller, and put this code on your variable or using <b>use</b>
 
 ```
 \KursBca\ScrappyData::kurs_bca(YOUR_PARAMATER)
 ```
+
+Parameter <b>Must be array</b> and the name of <b>ARRAY</b> must be 'kode'
+
+```
+variable = array('kode' => 'usd')
+```
+
+# Example
+
+take the exchange rate data from the American dollar (usd) to the Indonesian rupiah (idr)
+
+```
+YOUR_VARIABLE = array('kode' => 'usd')
+\KursBca\ScrappyData::kurs_bca(YOUR_VARIABLE)
+```
+
