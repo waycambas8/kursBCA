@@ -25,6 +25,36 @@ $ composer update
 ```
 
 # How to use 
+There is some <b>YOUR_PARAMETER</b> that you must be entered when you want to call the class/function
 
+- usd (Dollar America)
+- sgd (Dollar Singapore- Euro)
+- eur (Euro)
+- aud (Dollar Australia)
+- dkk (Kroner Denmark)
+- sek (Kronor Swedia)
+- cad (Dollar Canada)
+- chf (Franc Swiss)
+- nzd (Dollar Islandia Baru)
+- gbp (Ponsterling Inggris)
+- hkd (Dollar Hong-Kong)
+- sar (Riyal Arab Saudi)
+- cnh (Yuan China / Tiongkok)
 
+next you have to call this class
 
+```
+\KursBca\ScrappyData
+```
+
+public function
+
+```
+kurs_bca(YOUR_PARAMETER)
+```
+
+#How to Integration with your Controller
+
+```
+\KursBca\ScrappyData::kurs_bca(YOUR_PARAMATER)
+```
