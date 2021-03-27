@@ -23,10 +23,10 @@ Include 13 currency around the world to IDR Indonesia Rupiah
 # How To install
 To run this project, install it locally using composer:
 
-``` javascript
+```
 $ composer require waycambas8/kursbca
 $ composer update
-``` javascript
+```
 
 # How to use 
 There is some <b>YOUR_PARAMETER</b> that you must be entered when you want to call the class/function
