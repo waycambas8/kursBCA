@@ -1,4 +1,4 @@
-# KURS BANK BCA
+# SORRY THE STRUCTURE HAS BEEN CHANGED :(
 
 ![GitHub Logo](https://www.bca.co.id/assets/images/logo-bca.gif;bcad93b5a3b4897622d)
 
