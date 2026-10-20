@@ -93,3 +93,5 @@ the datas automatically updated when the kurs BCA has been changed
 <!-- cache check 2026-10-20 -->
 
 <!-- cache check 2026-10-20 -->
+
+<!-- cache check 2026-10-20 -->
